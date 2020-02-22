@@ -1,0 +1,8 @@
+D:\Users\Asus\source\repos\GloblaLibraryCOVID19\bin\Debug\netstandard2.0\GlobalLibraryCOVID19.deps.json
+D:\Users\Asus\source\repos\GloblaLibraryCOVID19\bin\Debug\netstandard2.0\GlobalLibraryCOVID19.dll
+D:\Users\Asus\source\repos\GloblaLibraryCOVID19\bin\Debug\netstandard2.0\GlobalLibraryCOVID19.pdb
+D:\Users\Asus\source\repos\GloblaLibraryCOVID19\obj\Debug\netstandard2.0\GlobalLibraryCOVID19.csprojAssemblyReference.cache
+D:\Users\Asus\source\repos\GloblaLibraryCOVID19\obj\Debug\netstandard2.0\GlobalLibraryCOVID19.AssemblyInfoInputs.cache
+D:\Users\Asus\source\repos\GloblaLibraryCOVID19\obj\Debug\netstandard2.0\GlobalLibraryCOVID19.AssemblyInfo.cs
+D:\Users\Asus\source\repos\GloblaLibraryCOVID19\obj\Debug\netstandard2.0\GlobalLibraryCOVID19.dll
+D:\Users\Asus\source\repos\GloblaLibraryCOVID19\obj\Debug\netstandard2.0\GlobalLibraryCOVID19.pdb
